@@ -60,7 +60,7 @@ void Sleep::sleepDelay(unsigned long sleepTime){
 
 	boolean abortCycle = false;
 
-	sleepDelay(sleepTime,abortCycle);
+	sleepDelay(sleepTime, abortCycle);
 }
 
 /********************************************************************
