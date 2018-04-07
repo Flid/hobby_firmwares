@@ -1,0 +1,12 @@
+ #ifndef _LED_MODES_H_
+ #define _LED_MODES_H_
+ 
+ enum LEDModes {
+  CONSTANT,
+  FADE_RANDOM_MULTICOLOR,
+  FADE_RANDOM,
+  MOVING_RAINBOW,
+  LED_MODES_COUNT,
+};
+
+#endif // _LED_MODES_H_
